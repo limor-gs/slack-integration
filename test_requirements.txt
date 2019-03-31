@@ -1,0 +1,5 @@
+-e git+git@gitlab.locsec.net:cs-dev/general/python-slackclient-ignore-ssl.git@master#egg=python-slackclient-ignore-ssl
+testtools
+pytest
+mock
+
